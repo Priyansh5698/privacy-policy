@@ -1,0 +1,29 @@
+# Privacy Policy – Statins Perception Research App
+
+This application is used solely for academic research by Priyansh Shah to study public perceptions and sentiment around statin medications on Instagram. This project is conducted under the ethical oversight of NYC-HHC, Jacobi Hospital.
+
+## What Data We Collect
+
+- This app uses the Instagram Graph API to access publicly available posts and hashtags related to statins (e.g., #statins, #cholesterol).
+- No personal or private Instagram data is collected.
+- We do not collect usernames, profile images, DMs, or any identifying information.
+
+## How We Use the Data
+
+- Data is used only for academic analysis, such as understanding health narratives, public sentiment, and content trends.
+- All data is stored securely and used in anonymized, aggregate form.
+- Results may be published in peer-reviewed journals or presented at academic conferences.
+
+## Your Rights
+
+- As this app uses only publicly available data, it does not affect any private Instagram content.
+- If you believe your content has been included and would like it removed, please contact us using the email below.
+
+## Contact
+
+If you have any questions or concerns, please contact us at:  
+📧 pri.shah5698@gmail.com
+
+## Hosting
+
+This policy is publicly available via GitHub Pages to meet the platform policy requirements of Meta/Facebook.
